@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "162043778156",
+    "firebase_url": "https://authenticationapp-64f10.firebaseio.com",
+    "project_id": "authenticationapp-64f10",
+    "storage_bucket": "authenticationapp-64f10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162043778156:android:031b6460ab68c3d0b13449",
+        "android_client_info": {
+          "package_name": "com.apeksh.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162043778156-evomrgsh865ge9ano5cgeg3laqh3fel5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ySLAwDBBvKkayVhpFBO0Vf0W8U-yBu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162043778156-evomrgsh865ge9ano5cgeg3laqh3fel5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
